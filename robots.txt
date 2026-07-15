@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-bmzx2r.hathayoganatasha.nz/sitemap.xml
